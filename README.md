@@ -51,10 +51,10 @@ Users should be able to select different colours, brushes and configre the point
 
 ## 9. Password Generator
 
-Users hsould be able to specify the nuber of characters, and whether it should include symbols and the site will generate a password.
+Users should be able to specify the number of characters, and whether it should include symbols and the site will generate a password.
 
 Users should be able to copy the new password to the clipborad with a button.
 
 ## 10. You own website to showcase all of these projects
 
-Make the site populate teh portfolio automatically from GitHub given a list of repositories. All the content should be part of each GitHub project.
+Make the site populate the portfolio automatically from GitHub given a list of repositories. All the content should be part of each GitHub project.
